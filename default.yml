@@ -12,7 +12,7 @@ agent_options:
 controls:
   macos_settings:
     custom_settings:
-      - path: ../lib/turn-on-automatic-updates.mobileconfig
+      - path: ./lib/turn-on-automatic-updates.mobileconfig
 org_settings:
   server_settings:
     server_url: $FLEET_URL
